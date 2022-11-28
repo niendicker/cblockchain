@@ -1,2 +1,2 @@
-# cblockchain
+# cBlockchain
 Blockchain technology
